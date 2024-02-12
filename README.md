@@ -32,9 +32,10 @@ We set up different GANACHE profiles for different investors and companies. The 
 **(ii) COMPANY DASHBOARD:** Here, the startup company can see how much of its funding amount it has received, and can withdraw if needed (as mentioned earlier). We also give it an appropriate message here once the funding goal is received.
 
 ### **6. Future Scope-**
-In future, we can charge some registration fee from the companies who want raise funds through our platform and can start a subscription model (on monthly basis) in which they will some added benefits such as social media marketing from our end.
+In future, we can charge some registration fee from the companies who want raise funds through our platform and can start a subscription model (on monthly basis) in which they will get some added benefits such as social media marketing from our end.
 
-Apart from the investment and company model we can also bring NGOs to our platform from where they can generate crowd funding by Blockchain technology.
+Apart from the investor and company model we can also bring NGOs to our platform from where they can generate crowd funding by Blockchain technology.
+
 
 
 
