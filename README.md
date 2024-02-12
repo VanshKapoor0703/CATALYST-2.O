@@ -24,12 +24,12 @@ We set up different GANACHE profiles for different investors and companies. The 
 
 **(iv) HTML/CSS**: A friendly and attractive user interface has been built using HTML and CSS styling.
 
-### 5. The Dashboards-**
+### **5. The Dashboards-**
 **(i) INVESTOR DASHBOARD:** Here, the investor can see all companies and invest in the company of his choice. The details of the company, including its investment pitch and funding required can be seen here. Also we have implemented **a functionality by which he can see that how much money has been credited back to his account in case the company withdraws.**
 
 **(ii) COMPANY DASHBOARD:** Here, the startup company can see how much of its funding amount it has received, and can withdraw if needed (as mentioned earlier). We also give it an appropriate message here once the funding goal is received.
 
-### 6. Future Scope-**
+### **6. Future Scope-**
 In future, we can charge some registration fee from the companies who want raise funds through our platform and can start a subscription model (on monthly basis) in which they will some added benefits such as social media marketing from our end.
 
 Apart from the investment and company model we can also bring NGOs to our platform from where they can generate crowd funding by Blockchain technology.
