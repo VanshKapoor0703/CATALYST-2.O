@@ -17,7 +17,9 @@ The smart contract we developed has implemented the following 2 actions-
 
 ### **4. The Implementation-**
 **(i) JAVASCRIPT AND NODE JS:** Once the user has registered (as either of company/investor), we send the data from our basic html form to the backend, built in javascript and node js. Here, we interact with Ganache to implement the transactions and the smart contract conditions mentioned.
+
 **(ii) MYSQL:** We store the details entered by the user (ex- name, email, funding required, etc) in MYSQL using 2 separate tables for company and investor.
+
 **(iii) web3.js + GANACHE:** We have used **web3.js**, a JavaScript library that provides a way for developers to interact with the **Ethereum blockchain** using JavaScript code. We set up a local ethereum blockchain using **Ganache**, a local blockchain development tool specifically designed for Ethereum. It provides a personal Ethereum blockchain that we can run on our local machine for testing and development purposes. It allows us to **connect to an Ethereum node, send transactions, and interact with smart contracts** from within a JavaScript environment, typically in a web browser.
 
 We set up different GANACHE profiles for different investors and companies. The investor, in its dashboard can click on INVEST button to invest in the compay it chooses. When it invests some money, **that money(in ethers) is actually reduced from the Ganache ID of the investor and credited to the Ganache ID of the company.** This interaction with GANACHE is established by web3.js. All the relevant details are shown on the company's as well as investor's dashboard. SImilarly, in case the company withdraws, the money is reduced from the Ganache ID of the company and credited back to the Ganache ID of the investor. **Thus, we have achieved real and safe transactions.**
