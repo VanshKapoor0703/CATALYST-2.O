@@ -179,8 +179,8 @@ web3.eth.getAccounts()
     console.error('Error:', error);
   });
   
-const investorAddress = '0x72Cc623Ec2643DA4021f9b409DfD1664C2669a58'; // Replace with the investor's address
-const startupAddress = '0x4B539Cd891d03F2431C4CAF9be9bC9b78CCa9e7e'; // Replace with the startup's address
+const investorAddress = '0x2A197aB3644F46910ddAc0b50ED7598da6f2f63D'; // Replace with the investor's address
+const startupAddress = '0x978F7755b17d2b19f43C1bcbB4A88d837008D5c1'; // Replace with the startup's address
 
 const checkBalances = async () => {
     try {
